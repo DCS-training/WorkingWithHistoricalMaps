@@ -13,3 +13,11 @@ This repository contains a series of datasets (two csv files and a zipped folder
 Download the datasets and follow the instructions on the powerpoint.
 
 
+## Author
+Ian Holmes 
+
+## Topics
+Data Visualisation, GIS
+
+## License
+All material here collected is free to use but it is covered by a License: CC BY-NC 4.0 license
